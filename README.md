@@ -20,7 +20,7 @@ I'm **Samuel**, a passionate Full-Stack Web Developer and Discord Bot Developer 
 
 ---
 
-## :tools: Other Skills
+## 🔨 Other Skills
 
 - **Co-working and Collaboration**
 - **Git/GitHub for Version Control**
