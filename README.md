@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**BlaD3r035/BlaD3r035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Samuel**, a passionate Full-Stack Web Developer and Discord Bot Developer with 2 years of experience crafting creative and functional projects. I thrive on learning new technologies and tackling exciting challenges. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :computer: Tech Stacks
+
+- **Languages**: JavaScript, TypeScript, SQL
+- **Frameworks & Libraries**: Node.js, Express
+- **Databases**: MySQL, MongoDB
+
+---
+
+## :grin: Experienced Areas
+
+- **Backend Development**
+- **REST API Development**
+- **Discord Bot Development**
+
+---
+
+## :tools: Other Skills
+
+- **Co-working and Collaboration**
+- **Git/GitHub for Version Control**
+- **Project Management (PM)**
+
+---
+
+📲 Some Projects
+* Private Discord Bot
+  Features: Custom economy system, roleplay commands, police web database, and a deep web system. 😁
+    * Discord Server: [here](https://discord.gg/cacolombiarp)
+    * [Main Page](https://cacolombia.website)
+    * [Police database](https://cacolombia.website/v1/login)
+
+Feel free to explore my projects and connect with me! I'm always open to learning, collaborating, and contributing to exciting ideas. ✨
