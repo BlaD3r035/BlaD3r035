@@ -36,3 +36,7 @@ I'm **Samuel**, a passionate Full-Stack Web Developer and Discord Bot Developer 
     * [Police database](https://cacolombia.website/v1/login)
 
 Feel free to explore my projects and connect with me! I'm always open to learning, collaborating, and contributing to exciting ideas. ✨
+
+## Contact
+Email: estepasamuelalejandro@gmail.com
+Discord: blad3r035
