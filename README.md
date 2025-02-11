@@ -28,6 +28,15 @@ I'm **Samuel**, a passionate Full-Stack Web Developer and Discord Bot Developer 
 
 ---
 
+## 😁 Learning
+
+- **React**
+- **Next.js**
+- **Java**
+- **AWS**
+
+---
+
 📲 Some Projects
 * Private Discord Bot
   Features: Custom economy system, roleplay commands, police web database, and a deep web system. 😁
