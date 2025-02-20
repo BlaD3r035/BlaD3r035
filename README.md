@@ -41,8 +41,8 @@ I'm **Samuel**, a passionate Full-Stack Web Developer and Discord Bot Developer 
 * Private Discord Bot
   Features: Custom economy system, roleplay commands, police web database, and a deep web system. 😁
     * Discord Server: [here](https://discord.gg/cacolombiarp)
-    * [Main Page](https://cacolombia.website)
-    * [Police database](https://cacolombia.website/v1/login)
+    * [Main Page](https://cacolombia.com)
+    * [Police database](https://cacolombia.com/v1/login)
 
 Feel free to explore my projects and connect with me! I'm always open to learning, collaborating, and contributing to exciting ideas. ✨
 
