@@ -7,7 +7,7 @@ I'm **Samuel**, a passionate Full-Stack Web Developer and Discord Bot Developer 
 ## :computer: Tech Stacks
 
 - **Languages**: JavaScript, TypeScript, SQL
-- **Frameworks & Libraries**: Node.js, Express
+- **Frameworks & Libraries**: Node.js, Express, React
 - **Databases**: MySQL, MongoDB
 
 ---
