@@ -1,45 +1,41 @@
-# Hi there! 👋
+# ✨ Hello, I'm Samuel! 😸  
 
-I'm **Samuel**, a passionate Full-Stack Web Developer/ Computer Systems Engineering Estudent  with 2 years of experience creating creative and functional projects. I thrive on learning new technologies and tackling exciting challenges. 🚀
+> _"Doing what I love 💕"_  
 
----
-
-## :computer: Tech Stacks
-
-- **Languages**: JavaScript, TypeScript, SQL, python.
-- **Frameworks & Libraries**: Node.js, Express, React
-- **Databases**: MySQL, MongoDB
+🎓 **Computer Systems Engineering student @ UNAL** 💙  
+💻 Passionate about Tech! 🌱 Always learning and building cool stuff  
+😸 being better than yesterday every day!
 
 ---
+## Socials: 🔅
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samuel.e035/)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-alejandro-estepa-estupiñan-4b903a339)   [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/kqm77nc34rhd0x7wu2tz1q3v7?si=3207a218900f4901) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1279148508208955463) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://co.pinterest.com/estepasamuelalejandro/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=estepasamuelalejandro@gmail.com)
 
-## :grin: Experienced Areas
 
-- **Backend Development**
-- **REST API Development**
-- **Discord Bot Development**
+
 
 ---
+## Tech stack: 🗃️
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+## Currentlly learning: 📓
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
-## 🔨 Other Skills
+--- 
+## Extra About Me: 😸  
 
-- **Co-working and Collaboration**
-- **Git/GitHub for Version Control**
-- **Project Management (PM)**
+🛩️ Passionate about Aviation — I just love this beautiful world !  
 
----
+📷 Like photography — I mean, I'm not really good, but I enjoy capturing moments 😅  
 
-## 😁 Learning
+🎶 Music lover — it’s always part of my day
 
-- **React**
-- **Next.js**
-- **Java**
-- **AWS**
+📓 I love learning new things — I'm really curious and always eager to know more.  
 
----
+--- 
+
+## Let's Connect! 📬  
+
+If you’d like to **share ideas, start an amazing project or just talk**, feel free to reach out through my socials above — I’d be happy to connect! 🚀  
 
 
-Feel free to explore my projects and connect with me! I'm always open to learning, collaborating, and contributing to exciting ideas. ✨
 
-## Contact
-Email: estepasamuelalejandro@gmail.com
-Discord: blad3r035
+
