@@ -32,12 +32,17 @@
 
 📓 I love learning new things — I'm really curious and always eager to know more.  
 
+
 --- 
 
 ## Let's Connect! 📬  
 
 If you’d like to **share ideas, start an amazing project or just talk**, feel free to reach out through my socials above — I’d be happy to connect! 🚀  
-
+----
+## Related Projects
+**Hermas MX**: https://hermas.mx/
+**Ca Colombia ER:LC**: https://cacolombia.lat/
+**ChicagoRP ER:LC**: https://chicagoerlc.com/
 
 
 
