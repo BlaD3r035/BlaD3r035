@@ -169,12 +169,3 @@ I'm always happy to connect! 🚀
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlaD3r035/BlaD3r035/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BlaD3r035/BlaD3r035/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BlaD3r035/BlaD3r035/output/pacman-contribution-graph.svg" width="100%"/>
-</picture>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:162447,50:1a1a2e,100:0D1117&height=120&section=footer" width="100%"/>
-
-</div>
