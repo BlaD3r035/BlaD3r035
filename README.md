@@ -153,9 +153,9 @@
 ## 🎵 Recently Played on Spotify
 
 <div align="center">
-  <a href="https://open.spotify.com/user/kqm77nc34rhd0x7wu2tz1q3v7">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kqm77nc34rhd0x7wu2tz1q3v7&count=4&unique=true" alt="Spotify recently played"/>
-  </a>
+<a href="https://open.spotify.com/user/kqm77nc34rhd0x7wu2tz1q3v7">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=kqm77nc34rhd0x7wu2tz1q3v7&amp;album=1" alt="Spotify recently played" width="400" />
+</a>
 </div>
 
 ---
